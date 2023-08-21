@@ -1,0 +1,324 @@
+{
+    "users" : [ 
+    {
+      "id": 1,
+      "name": "Aarav Sharma",
+      "gender": "Male",
+      "age": 20,
+      "height": 172,
+      "dateOfBirth": "2003-05-15",
+      "weight": 48,
+      "fitnessGoal": ["Muscle gain", "Cardiovascular fitness improvement"],
+      "CoachName" : "Jessica Anderson",
+      "userData": [
+        { "id": 1, "day": 1, "walkedKM": 11, "waterIntake": 7 },
+        { "id": 2, "day": 2, "walkedKM": 8, "waterIntake": 5 },
+        { "id": 3, "day": 3, "walkedKM": 14, "waterIntake": 6 },
+        { "id": 4, "day": 4, "walkedKM": 11, "waterIntake": 9 },
+        { "id": 5, "day": 5, "walkedKM": 6, "waterIntake": 6 }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Riya Patel",
+      "gender": "Female",
+      "age": 28,
+      "height": 160,
+      "dateOfBirth": "1995-09-28",
+      "weight": 62,
+      "fitnessGoal": ["Weight loss", "Flexibility"],
+      "CoachName" : "Michael Roberts",
+      "userData": [
+        { "id": 1, "day": 1, "walkedKM": 6, "waterIntake": 5 },
+        { "id": 2, "day": 2, "walkedKM": 7, "waterIntake": 4 },
+        { "id": 3, "day": 3, "walkedKM": 5, "waterIntake": 6 },
+        { "id": 4, "day": 4, "walkedKM": 8, "waterIntake": 7 },
+        { "id": 5, "day": 5, "walkedKM": 6, "waterIntake": 5 }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Rohan Gupta",
+      "gender": "Male",
+      "age": 25,
+      "height": 180,
+      "dateOfBirth": "1998-02-10",
+      "weight": 70,
+      "fitnessGoal": ["Strength training"],
+      "CoachName" : "Sarah Johnson",
+      "userData": [
+        { "id": 1, "day": 1, "walkedKM": 5, "waterIntake": 6 },
+        { "id": 2, "day": 2, "walkedKM": 7, "waterIntake": 7 },
+        { "id": 3, "day": 3, "walkedKM": 6, "waterIntake": 5 },
+        { "id": 4, "day": 4, "walkedKM": 4, "waterIntake": 4 },
+        { "id": 5, "day": 5, "walkedKM": 5, "waterIntake": 6 }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Aisha Khan",
+      "gender": "Female",
+      "age": 23,
+      "height": 165,
+      "dateOfBirth": "2000-11-03",
+      "weight": 55,
+      "fitnessGoal": ["Flexibility"],
+      "CoachName" : "Michael Roberts",
+      "userData": [
+        { "id": 1, "day": 1, "walkedKM": 7, "waterIntake": 6 },
+        { "id": 2, "day": 2, "walkedKM": 6, "waterIntake": 5 },
+        { "id": 3, "day": 3, "walkedKM": 8, "waterIntake": 7 },
+        { "id": 4, "day": 4, "walkedKM": 5, "waterIntake": 4 },
+        { "id": 5, "day": 5, "walkedKM": 6, "waterIntake": 6 }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Arjun Singh",
+      "gender": "Male",
+      "age": 29,
+      "height": 175,
+      "dateOfBirth": "1994-07-18",
+      "weight": 75,
+      "fitnessGoal": ["Cardiovascular fitness improvement"],
+      "CoachName" : "Jessica Anderson",
+      "userData": [
+        { "id": 1, "day": 1, "walkedKM": 8, "waterIntake": 7 },
+        { "id": 2, "day": 2, "walkedKM": 10, "waterIntake": 8 },
+        { "id": 3, "day": 3, "walkedKM": 6, "waterIntake": 6 },
+        { "id": 4, "day": 4, "walkedKM": 9, "waterIntake": 7 },
+        { "id": 5, "day": 5, "walkedKM": 7, "waterIntake": 5 }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Nisha Choudhary",
+      "gender": "Female",
+      "age": 24,
+      "height": 168,
+      "dateOfBirth": "1999-03-25",
+      "weight": 58,
+      "fitnessGoal": ["Strength training"],
+      "CoachName" : "Sarah Johnson",
+      "userData": [
+        { "id": 1, "day": 1, "walkedKM": 5, "waterIntake": 6 },
+        { "id": 2, "day": 2, "walkedKM": 6, "waterIntake": 5 },
+        { "id": 3, "day": 3, "walkedKM": 4, "waterIntake": 4 },
+        { "id": 4, "day": 4, "walkedKM": 7, "waterIntake": 6 },
+        { "id": 5, "day": 5, "walkedKM": 5, "waterIntake": 5 }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Vikram Desai",
+      "gender": "Male",
+      "age": 22,
+      "height": 180,
+      "dateOfBirth": "2001-08-08",
+      "weight": 70,
+      "fitnessGoal": ["Cardiovascular fitness improvement", "Weightloss"],
+      "CoachName" : "Jessica Anderson",
+      "userData": [
+        { "id": 1, "day": 1, "walkedKM": 9, "waterIntake": 8 },
+        { "id": 2, "day": 2, "walkedKM": 10, "waterIntake": 7 },
+        { "id": 3, "day": 3, "walkedKM": 8, "waterIntake": 6 },
+        { "id": 4, "day": 4, "walkedKM": 11, "waterIntake": 9 },
+        { "id": 5, "day": 5, "walkedKM": 7, "waterIntake": 6 }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Maya Joshi",
+      "gender": "Female",
+      "age": 26,
+      "height": 162,
+      "dateOfBirth": "1997-06-11",
+      "weight": 54,
+      "fitnessGoal": ["Weight loss", "Flexibility"],
+      "CoachName" : "Michael Roberts",
+      "userData": [
+        { "id": 1, "day": 1, "walkedKM": 7, "waterIntake": 6 },
+        { "id": 2, "day": 2, "walkedKM": 6, "waterIntake": 5 },
+        { "id": 3, "day": 3, "walkedKM": 5, "waterIntake": 4 },
+        { "id": 4, "day": 4, "walkedKM": 8, "waterIntake": 7 },
+        { "id": 5, "day": 5, "walkedKM": 6, "waterIntake": 6 }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Aditya Kapoor",
+      "gender": "Male",
+      "age": 27,
+      "height": 178,
+      "dateOfBirth": "1996-04-30",
+      "weight": 68,
+      "fitnessGoal": ["Cardiovascular fitness improvement", "Muscle gain"],
+      "CoachName" : "Jessica Anderson",
+      "userData": [
+        { "id": 1, "day": 1, "walkedKM": 8, "waterIntake": 7 },
+        { "id": 2, "day": 2, "walkedKM": 10, "waterIntake": 8 },
+        { "id": 3, "day": 3, "walkedKM": 6, "waterIntake": 6 },
+        { "id": 4, "day": 4, "walkedKM": 9, "waterIntake": 7 },
+        { "id": 5, "day": 5, "walkedKM": 7, "waterIntake": 5 }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Ananya Verma",
+      "gender": "Female",
+      "age": 21,
+      "height": 170,
+      "dateOfBirth": "2002-01-14",
+      "weight": 60,
+      "fitnessGoal": ["Strength training", "Flexibility"],
+      "CoachName" : "Sarah Johnson",
+      "userData": [
+        { "id": 1, "day": 1, "walkedKM": 6, "waterIntake": 5 },
+        { "id": 2, "day": 2, "walkedKM": 7, "waterIntake": 4 },
+        { "id": 3, "day": 3, "walkedKM": 5, "waterIntake": 6 },
+        { "id": 4, "day": 4, "walkedKM": 8, "waterIntake": 7 },
+        { "id": 5, "day": 5, "walkedKM": 6, "waterIntake": 5 }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Rajat Reddy",
+      "gender": "Male",
+      "age": 24,
+      "height": 175,
+      "dateOfBirth": "1999-03-05",
+      "weight": 70,
+      "fitnessGoal": ["Muscle gain", "Cardiovascular fitness improvement"],
+      "CoachName" : "Jessica Anderson",
+      "userData": [
+        { "id": 1, "day": 1, "walkedKM": 9, "waterIntake": 8 },
+        { "id": 2, "day": 2, "walkedKM": 10, "waterIntake": 7 },
+        { "id": 3, "day": 3, "walkedKM": 8, "waterIntake": 6 },
+        { "id": 4, "day": 4, "walkedKM": 11, "waterIntake": 9 },
+        { "id": 5, "day": 5, "walkedKM": 7, "waterIntake": 6 }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Sanya Mehta",
+      "gender": "Female",
+      "age": 23,
+      "height": 168,
+      "dateOfBirth": "2000-09-22",
+      "weight": 58,
+      "fitnessGoal": ["Weight loss", "Strength training"],
+      "CoachName" : "Michael Roberts",
+      "userData": [
+        { "id": 1, "day": 1, "walkedKM": 5, "waterIntake": 6 },
+        { "id": 2, "day": 2, "walkedKM": 6, "waterIntake": 5 },
+        { "id": 3, "day": 3, "walkedKM": 4, "waterIntake": 4 },
+        { "id": 4, "day": 4, "walkedKM": 7, "waterIntake": 6 },
+        { "id": 5, "day": 5, "walkedKM": 5, "waterIntake": 5 }
+      ]
+    }
+  ],
+    "BMI" : [
+      {
+        "id" : 1,
+        "Underweight" : [
+          "Focus on nutrient-dense foods to promote weight gain in a healthy way.",
+          "Include lean protein sources like chicken, fish, eggs, and legumes.",
+          "Incorporate healthy fats from sources like nuts, seeds, avocados, and olive oil.",
+          "Choose whole grains like brown rice, quinoa, and whole wheat bread.",
+          "Increase intake of fruits and vegetables for vitamins and minerals.",
+          "Opt for balanced snacks between meals to increase calorie intake."
+        ]
+      },
+      {
+        "id" : 2,
+         "NormalWeight" : [
+          "Maintain a balanced diet with a mix of carbohydrates, proteins, and healthy fats.",
+          "Emphasize whole foods such as lean meats, whole grains, fruits, and vegetables.",
+          "Control portion sizes to avoid overeating.",
+          "Include sources of fiber like whole grains, legumes, and vegetables.",
+          "Stay hydrated with water throughout the day.",
+          "Choose healthy snacks like yogurt, nuts, and fresh fruit."
+        ]
+      },
+      {
+        "id" : 3,
+        "Overweight" : [
+          "Focus on portion control and reducing calorie intake.",
+          "Choose lean protein sources like poultry, fish, tofu, and beans.",
+          "Limit consumption of sugary snacks, sugary beverages, and processed foods.",
+          "Include whole grains for sustained energy and fiber.",
+          "Increase vegetable intake to help with satiety.",
+          "Consider reducing portion sizes and avoiding late-night eating."
+        ]
+      },
+      {
+        "id" : 4,
+        "Obesity" : [
+          "Work with a registered dietitian or healthcare professional to develop a personalized plan.",
+          "Aim for a calorie deficit to promote weight loss.",
+          "Prioritize lean protein to preserve muscle mass.",
+          "Choose complex carbohydrates to regulate blood sugar levels.",
+          "Incorporate healthy fats in moderation for satiety.",
+          "Include plenty of vegetables for vitamins, minerals, and fiber.",
+          "Avoid highly processed foods, sugary snacks, and sweetened beverages."
+        ]
+      }
+    ],
+    "Coaches" : [
+      {
+      "id": 1,
+      "name": "Jessica Anderson",
+      "image" : "https://images.unsplash.com/photo-1571019613531-fbeaeb790845?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2068&q=80",
+      "expertise": ["Cardiovascular fitness improvement", "Muscle gain"],
+      "gender": "Female",
+      "age": 32,
+      "experience": "8 years",
+      "specializations": "Weight management, Nutrition counseling, Lifestyle modification",
+      "approach": "Holistic approach to health, focusing on balanced nutrition and personalized fitness plans",
+      "languages": ["English", "Spanish"],
+      "availability": "Weekdays, mornings and evenings",
+      "contact": {
+        "email": "jessica.anderson@example.com",
+        "phone": "+1 (555) 123-4567",
+        "website": "www.jessicahealthcoach.com"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Michael Roberts",
+      "image" : "https://images.unsplash.com/photo-1579758629938-03607ccdbaba?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "expertise": ["Weight loss", "Flexibility"],
+      "gender": "Male",
+      "age": 29,
+      "experience": "6 years",
+      "specializations": "Nutrition, Functional training, Mind-body wellness",
+      "approach": "Combining science-based strategies with mindfulness practices",
+      "languages": ["English"],
+      "availability": "Flexible schedule, including weekends",
+      "contact": {
+        "email": "michael.roberts@example.com",
+        "phone": "+1 (555) 987-6543",
+        "website": "www.michaelwellness.com"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Sarah Johnson",
+      "image" : "https://images.unsplash.com/photo-1620862657760-72a639a2daef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "expertise": ["Strength training"],
+      "gender": "Female",
+      "age": 27,
+      "experience": "5 years",
+      "specializations": "Strength and conditioning, Functional movement",
+      "approach": "Empowering clients to achieve their fitness goals through progressive training",
+      "languages": ["English"],
+      "availability": "Weekdays, afternoons and evenings",
+      "contact": {
+        "email": "sarah.johnson@example.com",
+        "phone": "+1 (555) 789-0123",
+        "website": "www.sarahfitcoach.com"
+      }
+    }
+    ]
+  }
+  
