@@ -1,8 +1,10 @@
 {
-    "users" : [ 
+    "clients" : [ 
     {
       "id": 1,
       "name": "Aarav Sharma",
+      "email" : "aarav@gmail.com",
+      "password" : "aarav123",
       "gender": "Male",
       "age": 20,
       "height": 172,
@@ -21,6 +23,8 @@
     {
       "id": 2,
       "name": "Riya Patel",
+      "email" : "riya@gmail.com",
+      "password" : "riya123",
       "gender": "Female",
       "age": 28,
       "height": 160,
@@ -39,6 +43,8 @@
     {
       "id": 3,
       "name": "Rohan Gupta",
+      "email" : "rohan@gmail.com",
+      "password" : "rohan123",
       "gender": "Male",
       "age": 25,
       "height": 180,
@@ -57,6 +63,8 @@
     {
       "id": 4,
       "name": "Aisha Khan",
+      "email" : "alisha@gmail.com",
+      "password" : "alisha123",
       "gender": "Female",
       "age": 23,
       "height": 165,
@@ -75,6 +83,8 @@
     {
       "id": 5,
       "name": "Arjun Singh",
+      "email" : "arjun@gmail.com",
+      "password" : "arjun123",
       "gender": "Male",
       "age": 29,
       "height": 175,
@@ -93,6 +103,8 @@
     {
       "id": 6,
       "name": "Nisha Choudhary",
+      "email" : "nisha@gmail.com",
+      "password" : "nisha123",
       "gender": "Female",
       "age": 24,
       "height": 168,
@@ -111,6 +123,8 @@
     {
       "id": 7,
       "name": "Vikram Desai",
+      "email" : "vikram@gmail.com",
+      "password" : "vikram123",
       "gender": "Male",
       "age": 22,
       "height": 180,
@@ -129,6 +143,8 @@
     {
       "id": 8,
       "name": "Maya Joshi",
+      "email" : "maya@gmail.com",
+      "password" : "maya123",
       "gender": "Female",
       "age": 26,
       "height": 162,
@@ -147,6 +163,8 @@
     {
       "id": 9,
       "name": "Aditya Kapoor",
+      "email" : "aditya@gmail.com",
+      "password" : "aditya123",
       "gender": "Male",
       "age": 27,
       "height": 178,
@@ -165,6 +183,8 @@
     {
       "id": 10,
       "name": "Ananya Verma",
+      "email" : "ananya@gmail.com",
+      "password" : "ananya123",
       "gender": "Female",
       "age": 21,
       "height": 170,
@@ -183,6 +203,8 @@
     {
       "id": 11,
       "name": "Rajat Reddy",
+      "email" : "rajat@gmail.com",
+      "password" : "rajat123",
       "gender": "Male",
       "age": 24,
       "height": 175,
@@ -201,6 +223,8 @@
     {
       "id": 12,
       "name": "Sanya Mehta",
+      "email" : "sanya@gmail.com",
+      "password" : "sanya123",
       "gender": "Female",
       "age": 23,
       "height": 168,
@@ -216,8 +240,8 @@
         { "id": 5, "day": 5, "walkedKM": 5, "waterIntake": 5 }
       ]
     }
-  ],
-    "BMI" : [
+    ],
+    "bmi" : [
       {
         "id" : 1,
         "Underweight" : [
@@ -264,10 +288,12 @@
         ]
       }
     ],
-    "Coaches" : [
+    "coaches" : [
       {
       "id": 1,
       "name": "Jessica Anderson",
+      "email" : "jessica@gmail.com",
+      "password" : "jessica123",
       "image" : "https://images.unsplash.com/photo-1571019613531-fbeaeb790845?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2068&q=80",
       "expertise": ["Cardiovascular fitness improvement", "Muscle gain"],
       "gender": "Female",
@@ -278,7 +304,7 @@
       "languages": ["English", "Spanish"],
       "availability": "Weekdays, mornings and evenings",
       "contact": {
-        "email": "jessica.anderson@example.com",
+        "email": "jessica.anderson@gmail.com",
         "phone": "+1 (555) 123-4567",
         "website": "www.jessicahealthcoach.com"
       }
@@ -286,6 +312,8 @@
     {
       "id": 2,
       "name": "Michael Roberts",
+      "email" : "michael@gmail.com",
+      "password" : "michael123",
       "image" : "https://images.unsplash.com/photo-1579758629938-03607ccdbaba?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
       "expertise": ["Weight loss", "Flexibility"],
       "gender": "Male",
@@ -296,7 +324,7 @@
       "languages": ["English"],
       "availability": "Flexible schedule, including weekends",
       "contact": {
-        "email": "michael.roberts@example.com",
+        "email": "michael.roberts@gmail.com",
         "phone": "+1 (555) 987-6543",
         "website": "www.michaelwellness.com"
       }
@@ -304,6 +332,8 @@
     {
       "id": 3,
       "name": "Sarah Johnson",
+      "email" : "sarah@gmail.com",
+      "password" : "sarah123",
       "image" : "https://images.unsplash.com/photo-1620862657760-72a639a2daef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
       "expertise": ["Strength training"],
       "gender": "Female",
@@ -314,11 +344,12 @@
       "languages": ["English"],
       "availability": "Weekdays, afternoons and evenings",
       "contact": {
-        "email": "sarah.johnson@example.com",
+        "email": "sarah.johnson@gmail.com",
         "phone": "+1 (555) 789-0123",
         "website": "www.sarahfitcoach.com"
       }
     }
-    ]
+    ],
+    "Login" : []
   }
   
