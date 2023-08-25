@@ -300,7 +300,7 @@
       "age": 32,
       "experience": "8 years",
       "specializations": "Weight management, Nutrition counseling, Lifestyle modification",
-      "approach": "Holistic approach to health, focusing on balanced nutrition and personalized fitness plans",
+      "approach": "Holistic approach to health, focusing on balanced nutrition and Diet",
       "languages": ["English", "Spanish"],
       "availability": "Weekdays, mornings and evenings",
       "contact": {
@@ -315,12 +315,12 @@
       "email" : "michael@gmail.com",
       "password" : "michael123",
       "image" : "https://images.unsplash.com/photo-1579758629938-03607ccdbaba?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-      "expertise": ["Weight loss", "Flexibility"],
+      "expertise": ["Weight loss", "Aerobics"],
       "gender": "Male",
       "age": 29,
       "experience": "6 years",
       "specializations": "Nutrition, Functional training, Mind-body wellness",
-      "approach": "Combining science-based strategies with mindfulness practices",
+      "approach": "Combining science-based strategies with mindfulness practices and hard work",
       "languages": ["English"],
       "availability": "Flexible schedule, including weekends",
       "contact": {
@@ -334,8 +334,8 @@
       "name": "Sarah Johnson",
       "email" : "sarah@gmail.com",
       "password" : "sarah123",
-      "image" : "https://images.unsplash.com/photo-1620862657760-72a639a2daef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
-      "expertise": ["Strength training"],
+      "image" : "https://plus.unsplash.com/premium_photo-1681492529719-a1d3d8cc498a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
+      "expertise": ["Strength training", "Cardio"],
       "gender": "Female",
       "age": 27,
       "experience": "5 years",
@@ -348,8 +348,649 @@
         "phone": "+1 (555) 789-0123",
         "website": "www.sarahfitcoach.com"
       }
+    },
+    {
+      "id": 4,
+      "name": "Alex Williams",
+      "email": "alex.williams@gmail.com",
+      "password": "alex123",
+      "image": "https://images.unsplash.com/photo-1573384666979-2b1e160d2d08?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1878&q=80",
+      "expertise": ["Zumba Dance", "Flexibility"],
+      "gender": "Male",
+      "age": 32,
+      "experience": "8 years",
+      "specializations": "Functional movement, Injury prevention",
+      "approach": "Tailoring workout plans to individual needs and focusing on functional fitness",
+      "languages": ["English", "Spanish"],
+      "availability": "Flexible schedule, including weekends",
+      "contact": {
+        "email": "alex.williams.fit@gmail.com",
+        "phone": "+1 (555) 123-4567",
+        "website": "www.alexfitcoach.com"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Emily Martinez",
+      "email": "emily.martinez@gmail.com",
+      "password": "emily123",
+      "image": "https://images.unsplash.com/photo-1529693662653-9d480530a697?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1931&q=80",
+      "expertise": ["Yoga", "Cardio"],
+      "gender": "Female",
+      "age": 29,
+      "experience": "6 years",
+      "specializations": "Yoga for stress relief, Meditation",
+      "approach": "Promoting holistic wellness through yoga, meditation, and mindfulness practices",
+      "languages": ["English", "French"],
+      "availability": "Weekdays and weekends, mornings",
+      "contact": {
+        "email": "emily.yogawell@gmail.com",
+        "phone": "+1 (555) 987-6543",
+        "website": "www.emilyyogawellness.com"
+      }
+    },
+    {
+      "id": 6,
+      "name": "David Thompson",
+      "email": "david.thompson@gmail.com",
+      "password": "david123",
+      "image": "https://images.unsplash.com/photo-1616803824305-a07cfbc8ea60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "expertise": ["Aerobics", "Zumba Dance"],
+      "gender": "Male",
+      "age": 35,
+      "experience": "10 years",
+      "specializations": "Customized nutrition plans, Body transformation",
+      "approach": "Guiding clients towards sustainable lifestyle changes for long-term health and fitness",
+      "languages": ["English", "German"],
+      "availability": "Weekdays, mornings and evenings",
+      "contact": {
+        "email": "david.fitcoach@gmail.com",
+        "phone": "+1 (555) 789-5678",
+        "website": "www.davidfitjourney.com"
+      }
     }
     ],
-    "Login" : []
-  }
+    "Login" : [
+
+    ],
+    "products" : [
+      {
+        "image": "https://contents.mediadecathlon.com/p2491572/f854bdaab9ddcdec791f785cb583f673/p2491572.jpg?format=auto&quality=70&f=1024x0",
+        "title": "Weight Bench - All-in-One",
+        "price": "$149",
+        "rating": "4.7",
+        "totalRating": "421",
+        "category": "Gym Equipment",
+        "description" : "Product dimensions: - Length: 141 cm - Width: 51 cm - Height: 41 cm - Weight: 19.3 kg This product is delivered in a box that: - measures 118 cm x 26 cm x 44 cm - weighs 22 kg. The 900 bench has been designed to have 7 different backrest angles so that you can work different muscle groups. The inclined position targets the upper pecs, while the declined position focuses on the lower pecs. The vertical position is for training your shoulders. - Bench press (0°) - Incline bench press at 15°, 30°, 45°, 60° - Military press at 80° - Declined bench press at -15° - CrunchesThe sky's the limit!",
+        "reviews": [
+          {
+            "name": "Alexandra Brown",
+            "comment": "Versatile bench for various exercises. Love it!",
+            "likes": "76",
+            "dislikes": "1"
+          },
+          {
+            "name": "John Smith",
+            "comment": "Sturdy build, easy to adjust. Great investment.",
+            "likes": "64",
+            "dislikes": "3"
+          },
+          {
+            "name": "Emily Johnson",
+            "comment": "Uncomfortable padding, disappointed.",
+            "likes": "5",
+            "dislikes": "21"
+          }
+        ]
+      },
+      {
+        "image": "https://contents.mediadecathlon.com/p2041615/e14d0aa3da5cb08f5673b8483a39dc00/p2041615.jpg?format=auto&quality=70&f=1024x0",
+        "title": "Running Shoes - Performance Plus",
+        "price": "$89",
+        "rating": "4.5",
+        "totalRating": "278",
+        "category": "Sports Equipment",
+        "description" : "Flexible, lightweight EVA foam to absorb shock waves. To help you achieve a natural stride, the Kiprun KN500 offer: - a reduced 4mm drop, - increased flexibility thanks to their flex grooves, - a very light weight (238 grams in size 42), - a low heel thickness. A natural stride is the stride we adopt when we run barefoot, striking the floor with the forefoot or middle of the foot (midfoot).",
+        "reviews": [
+          {
+            "name": "David Miller",
+            "comment": "Excellent grip and comfort for running.",
+            "likes": "41",
+            "dislikes": "0"
+          },
+          {
+            "name": "Sophia Turner",
+            "comment": "Lightweight, but caused blisters on my feet.",
+            "likes": "14",
+            "dislikes": "8"
+          }
+        ]
+      },
+      {
+        "image": "https://contents.mediadecathlon.com/p2013262/e940a5a489c6f9e098c9232fee8ea6af/p2013262.jpg?format=auto&quality=70&f=1024x0",
+        "title": "Whey Protein Isolate",
+        "price": "$29",
+        "rating": "4.2",
+        "totalRating": "159",
+        "description" : "Proteins help maintain the muscle mass. 4gm of Fat in 100gm of powder. Mix 30 g of WHEY with 150 ml of water or skimmed milk in a shaker equipped with a strainer in order to obtain the desired texture. Shake for 30 seconds before drinking. The quick assimilation of WHEY protein is ideal for post-workout use. You can also supplement your diet by drinking a whey protein shake at breakfast. In addition to physical activity, it is important to maintain a varied, balanced diet and a healthy lifestyle.",
+        "category": "Health Supplements",
+        "reviews": [
+          {
+            "name": "Michael White",
+            "comment": "Great flavor and mixes well.",
+            "likes": "29",
+            "dislikes": "2"
+          },
+          {
+            "name": "Emma Carter",
+            "comment": "Upset my stomach after consumption.",
+            "likes": "3",
+            "dislikes": "11"
+          }
+        ]
+      },
+      {
+        "image": "https://contents.mediadecathlon.com/p2340283/e76d77a4150ad426e03e61f25581371d/p2340283.jpg?format=auto&quality=70&f=1024x0",
+        "title": "Elliptical Trainer - Cardio Pro",
+        "price": "$679",
+        "rating": "4.6",
+        "totalRating": "589",
+        "category": "Gym Equipment",
+        "description" : "No need for an outlet: the 520 cross trainer is powered by your movements alone. 39 cm stride length and 15 resistance levels. Very smooth motion thanks to its 6 kg flywheel. Motorised resistance. Smart console with 6 built-in functions and 7 training programmes. Smart console that can connect to partner apps such as Kinomap and E-Connected",
+        "reviews": [
+          {
+            "name": "Jessica Martinez",
+            "comment": "Smooth and effective workout. Impressed!",
+            "likes": "58",
+            "dislikes": "0"
+          },
+          {
+            "name": "Chris Anderson",
+            "comment": "Easy on the joints, but assembly was a pain.",
+            "likes": "22",
+            "dislikes": "7"
+          }
+        ]
+      },
+      {
+        "image": "https://contents.mediadecathlon.com/p2154516/0bd53fae46ee5bcf0737180c004b85ed/p2154516.jpg?format=auto&quality=70&f=1024x0",
+        "title": "Basketball - Premium Grip",
+        "price": "$29",
+        "rating": "4.3",
+        "totalRating": "172",
+        "category": "Sports Equipment",
+        "description" : "Official size 7 basketball designed for boys ages 13 and up playing outdoors or indoors according to FIBA rules. A pleasant feel thanks to the padded rubber cover. Pleasing bounce quality thanks to the bladder surrounded by 100% polyester. Prolonged period between Chambers thanks to the bladder with 30% butyl bladder. Good grip thanks to the deep channels.",
+        "reviews": [
+          {
+            "name": "Sarah Johnson",
+            "comment": "Excellent grip, perfect for indoor games.",
+            "likes": "37",
+            "dislikes": "1"
+          },
+          {
+            "name": "Jason Thompson",
+            "comment": "Started losing air after a few weeks of use.",
+            "likes": "6",
+            "dislikes": "10"
+          }
+        ]
+      },
+      {
+        "image": "https://contents.mediadecathlon.com/p2013305/af85d1d87a21ad261b92acd6d4851956/p2013305.jpg?format=auto&quality=70&f=1024x0",
+        "title": "Vegan Protein Powder",
+        "price": "$34",
+        "rating": "4.1",
+        "totalRating": "132",
+        "category": "Health Supplements",
+        "description" : "Protein helps maintain and develop muscle mass. Formula made of 80% whey protein. Whey is quickly absorbed by the body, making it perfect for use straight after training (up to one hour). You can also round off your diet by having a WHEY PROTEIN ISOLATE shake for breakfast or before training. Two-thirds of your protein intake should come through a varied and balanced diet",
+        "reviews": [
+          {
+            "name": "Olivia Harris",
+            "comment": "Tastes great and easy on the stomach.",
+            "likes": "27",
+            "dislikes": "3"
+          },
+          {
+            "name": "Matthew Wilson",
+            "comment": "Texture is a bit gritty, but overall decent.",
+            "likes": "14",
+            "dislikes": "6"
+          }
+        ]
+      },
+      {
+        "image": "",
+        "title": "Adjustable Kettlebell Set",
+        "price": "$119",
+        "rating": "4.4",
+        "totalRating": "296",
+        "category": "Gym Equipment",
+        "description": "Enhance your home workouts with this versatile adjustable kettlebell set. Save space and enjoy a range of exercises with customizable weight levels.",
+        "reviews": [
+          {
+            "name": "Ryan Williams",
+            "comment": "Space-saving and versatile. Perfect for home workouts.",
+            "likes": "42",
+            "dislikes": "0"
+          },
+          {
+            "name": "Jennifer Lee",
+            "comment": "Some plates didn't fit properly. Disappointed.",
+            "likes": "8",
+            "dislikes": "15"
+          }
+        ]
+      },
+      {
+        "image": "",
+        "title": "Soccer Ball - Pro Match",
+        "price": "$45",
+        "rating": "4.7",
+        "totalRating": "248",
+        "category": "Sports Equipment",
+        "description": "Take your game to the next level with this high-quality soccer ball designed for professional matches. Experience excellent control and durability.",
+        "reviews": [
+          {
+            "name": "Daniel Martinez",
+            "comment": "Excellent ball for professional matches.",
+            "likes": "32",
+            "dislikes": "2"
+          },
+          {
+            "name": "Amanda Taylor",
+            "comment": "Stitching came undone after a few games.",
+            "likes": "5",
+            "dislikes": "11"
+          }
+        ]
+      },
+      {
+        "image": "",
+        "title": "Multivitamin Tablets",
+        "price": "$19",
+        "rating": "4.5",
+        "totalRating": "189",
+        "category": "Health Supplements",
+        "description": "Support your overall health with these essential multivitamin tablets. Experience increased energy levels and improved wellbeing.",
+        "reviews": [
+          {
+            "name": "Robert Anderson",
+            "comment": "Noticeable increase in energy levels.",
+            "likes": "23",
+            "dislikes": "0"
+          },
+          {
+            "name": "Maria Garcia",
+            "comment": "Caused mild nausea for the first few days.",
+            "likes": "7",
+            "dislikes": "5"
+          }
+        ]
+      },
+      {
+        "image": "https://contents.mediadecathlon.com/p2443817/f26f77631809cd0727b14594a9573bf0/p2443817.jpg?format=auto&quality=70&f=1024x0",
+        "title": "Pilates Resistance Bands Set",
+        "price": "$29",
+        "rating": "4.6",
+        "totalRating": "321",
+        "category": "Gym Equipment",
+        "description": "Elevate your Pilates and home workouts with this set of high-quality resistance bands. Achieve better muscle activation and flexibility.",
+        "reviews": [
+          {
+            "name": "Sophie Smith",
+            "comment": "Great for home workouts, high quality bands.",
+            "likes": "49",
+            "dislikes": "1"
+          },
+          {
+            "name": "Mark Davis",
+            "comment": "One of the bands snapped during use.",
+            "likes": "3",
+            "dislikes": "13"
+          }
+        ]
+      },
+      {
+        "image": "https://contents.mediadecathlon.com/p2317397/fb9833d2b796c77819288d11d770da5f/p2317397.jpg?format=auto&quality=70&f=1024x0",
+        "title": "Trail Running Shoes - Waterproof",
+        "price": "$99",
+        "rating": "4.3",
+        "totalRating": "175",
+        "category": "Sports Equipment",
+        "description": "Conquer wet trails with confidence in these waterproof trail running shoes. Keep your feet dry and experience optimal traction.",
+        "reviews": [
+          {
+            "name": "Natalie White",
+            "comment": "Keeps my feet dry on wet trails. Highly recommended!",
+            "likes": "28",
+            "dislikes": "0"
+          },
+          {
+            "name": "Chris Harris",
+            "comment": "Sole started coming off after a few runs.",
+            "likes": "6",
+            "dislikes": "9"
+          }
+        ]
+      },
+      {
+        "image": "https://contents.mediadecathlon.com/p2538768/b117e7eefe688234bb39866103979d2a/p2538768.jpg?format=auto&quality=70&f=1024x0",
+        "title": "Rowing Machine - Pro RowX",
+        "price": "$549",
+        "rating": "4.9",
+        "totalRating": "412",
+        "category": "Gym Equipment",
+        "description": "Achieve a full-body workout with the smooth and effective Pro RowX rowing machine. Its compact design makes it an excellent addition to any home gym.",
+        "reviews": [
+          {
+            "name": "Jonathan Miller",
+            "comment": "Smooth and effective full-body workout.",
+            "likes": "63",
+            "dislikes": "1"
+          },
+          {
+            "name": "Sophia Adams",
+            "comment": "Compact design, great addition to my home gym.",
+            "likes": "54",
+            "dislikes": "0"
+          }
+        ]
+      },
+      {
+        "image": "https://contents.mediadecathlon.com/p2499024/9aef5bc4f5a8c5c604896c0c005d993e/p2499024.jpg?format=auto&quality=70&f=1024x0",
+        "title": "Tennis Racket - Pro Spin",
+        "price": "$129",
+        "rating": "4.6",
+        "totalRating": "237",
+        "category": "Sports Equipment",
+        "description": "Enhance your tennis game with the Pro Spin racket. Experience excellent control and spin on your shots for competitive matches.",
+        "reviews": [
+          {
+            "name": "David Turner",
+            "comment": "Excellent control and spin on shots.",
+            "likes": "38",
+            "dislikes": "2"
+          },
+          {
+            "name": "Megan Walker",
+            "comment": "Strings broke after just a few matches.",
+            "likes": "5",
+            "dislikes": "14"
+          }
+        ]
+      },
+      {
+        "image": "https://cdn3.mydukaan.io/app/image/700x700/?url=https://dukaan-core-file-service.s3.ap-southeast-1.amazonaws.com/upload_file_service/asg/fab35719-fce4-4811-817c-5cb6b0d52190/N-PDP1.jpg?v=1676022710",
+        "title": "Omega-3 Fish Oil Capsules",
+        "price": "$24",
+        "rating": "4.4",
+        "totalRating": "198",
+        "category": "Health Supplements",
+        "description": "Support your joint health and overall wellbeing with Omega-3 fish oil capsules. Experience improved mobility and heart health benefits.",
+        "reviews": [
+          {
+            "name": "James Smith",
+            "comment": "Improved joint mobility and overall health.",
+            "likes": "27",
+            "dislikes": "0"
+          },
+          {
+            "name": "Linda Martinez",
+            "comment": "Upset my stomach, had to stop taking them.",
+            "likes": "3",
+            "dislikes": "10"
+          }
+        ]
+      },
+      {
+        "image": "https://contents.mediadecathlon.com/p1942855/3af918a1cfaa72bffaba0f471386092e/p1942855.jpg?format=auto&quality=70&f=1024x0",
+        "title": "Yoga Blocks Set",
+        "price": "$19",
+        "rating": "4.7",
+        "totalRating": "318",
+        "category": "Gym Equipment",
+        "reviews": [
+          {
+            "name": "Jennifer Harris",
+            "comment": "Great support during yoga poses.",
+            "likes": "45",
+            "dislikes": "1"
+          },
+          {
+            "name": "William Turner",
+            "comment": "Blocks had a strong chemical odor.",
+            "likes": "7",
+            "dislikes": "8"
+          }
+        ]
+      },
+      {
+        "image": "https://contents.mediadecathlon.com/p2267073/683d2c551cbe097dfb23e79f231ef0f9/p2267073.jpg?format=auto&quality=70&f=1024x0",
+        "title": "Ski Goggles - Polarized",
+        "price": "$79",
+        "rating": "4.3",
+        "totalRating": "156",
+        "category": "Sports Equipment",
+        "reviews": [
+          {
+            "name": "Ethan Johnson",
+            "comment": "Clear vision and protection on the slopes.",
+            "likes": "25",
+            "dislikes": "1"
+          },
+          {
+            "name": "Isabella White",
+            "comment": "Fogged up easily, even in mild conditions.",
+            "likes": "6",
+            "dislikes": "9"
+          }
+        ]
+      },
+      {
+        "image": "https://contents.mediadecathlon.com/p2148860/8aff937df7b7bdef9cd201b44ac5e329/p2148860.jpg?format=auto&quality=70&f=1024x0",
+        "title": "Plant-Based Protein Powder",
+        "price": "$27",
+        "rating": "4.1",
+        "totalRating": "128",
+        "category": "Health Supplements",
+        "reviews": [
+          {
+            "name": "Daniel Johnson",
+            "comment": "Good flavor and mixability for a plant-based powder.",
+            "likes": "22",
+            "dislikes": "2"
+          },
+          {
+            "name": "Emily Davis",
+            "comment": "Texture was gritty and taste was off-putting.",
+            "likes": "4",
+            "dislikes": "8"
+          }
+        ]
+      },
+      {
+        "image": "https://contents.mediadecathlon.com/p2042550/78bb8467607bf6c47307ac603266f802/p2042550.jpg?format=auto&quality=70&f=1024x0",
+        "title": "Pilates Reformer Machine",
+        "price": "$879",
+        "rating": "4.6",
+        "totalRating": "276",
+        "category": "Gym Equipment",
+        "reviews": [
+          {
+            "name": "Nathan Harris",
+            "comment": "Great for targeted muscle strengthening.",
+            "likes": "42",
+            "dislikes": "0"
+          },
+          {
+            "name": "Emma Turner",
+            "comment": "Difficult to assemble, instructions weren't clear.",
+            "likes": "9",
+            "dislikes": "7"
+          }
+        ]
+      },
+      {
+        "image": "https://contents.mediadecathlon.com/p2491089/7a435f00641e150ad5938225ca23dd77/p2491089.jpg?format=auto&quality=70&f=1024x0",
+        "title": "Golf Clubs Set - Pro Series",
+        "price": "$599",
+        "rating": "4.8",
+        "totalRating": "421",
+        "category": "Sports Equipment",
+        "description": "Elevate your golf game with the Pro Series golf clubs set. Experience improved swing accuracy and distance on the greens.",
+        "reviews": [
+          {
+            "name": "Michael Anderson",
+            "comment": "Improved my swing and accuracy. Impressive set.",
+            "likes": "65",
+            "dislikes": "2"
+          },
+          {
+            "name": "Jessica Turner",
+            "comment": "Club heads dented after just a few rounds.",
+            "likes": "8",
+            "dislikes": "11"
+          }
+        ]
+      },
+      {
+        "image": "https://contents.mediadecathlon.com/p2091151/4961ae1063aab3803db69f23681c766e/p2091151.jpg?format=auto&quality=70&f=1024x0",
+        "title": "CrossFit Barbell - Heavy Duty",
+        "price": "$199",
+        "rating": "4.6",
+        "totalRating": "265",
+        "category": "Gym Equipment",
+        "description": "Challenge your strength with the Heavy Duty CrossFit barbell. Designed for high-intensity workouts and heavy lifting.",
+        "reviews": [
+          {
+            "name": "Alex Rivera",
+            "comment": "Solid construction and great grip.",
+            "likes": "34",
+            "dislikes": "0"
+          },
+          {
+            "name": "Sara Patel",
+            "comment": "Barbell started rusting after a few weeks.",
+            "likes": "7",
+            "dislikes": "12"
+          }
+        ]
+      },
+      {
+        "image": "https://contents.mediadecathlon.com/p1998227/210d367169d037728b70a1809f5e6c08/p1998227.jpg?format=auto&quality=70&f=1024x0",
+        "title": "Volleyball - Official Size",
+        "price": "$25",
+        "rating": "4.5",
+        "totalRating": "198",
+        "category": "Sports Equipment",
+        "description": "Spike and serve with confidence using this official size volleyball. Perfect for casual games and recreational play.",
+        "reviews": [
+          {
+            "name": "Jason Kim",
+            "comment": "Durable and great for beach volleyball.",
+            "likes": "18",
+            "dislikes": "1"
+          },
+          {
+            "name": "Emily Baker",
+            "comment": "Inflation valve was defective, had to replace it.",
+            "likes": "3",
+            "dislikes": "5"
+          }
+        ]
+      },
+      {
+        "image": "https://contents.mediadecathlon.com/p2148865/2c4b159bb87123204f194a4180847efb/p2148865.jpg?format=auto&quality=70&f=1024x0",
+        "title": "Whey Protein Powder",
+        "price": "$32",
+        "rating": "4.4",
+        "totalRating": "312",
+        "category": "Health Supplements",
+        "description": "Recover and build muscles with this high-quality whey protein powder. Enjoy fast-absorbing protein for post-workout nutrition.",
+        "reviews": [
+          {
+            "name": "Ryan Mitchell",
+            "comment": "Great taste and mixability. Helps with muscle recovery.",
+            "likes": "47",
+            "dislikes": "1"
+          },
+          {
+            "name": "Sophia Adams",
+            "comment": "Caused digestive discomfort, switched to a different brand.",
+            "likes": "6",
+            "dislikes": "10"
+          }
+        ]
+      },
+      {
+        "image": "https://contents.mediadecathlon.com/p1672226/dcd6f3a8fc284109fee56e32ac7bc2d1/p1672226.jpg?format=auto&quality=70&f=1024x0",
+        "title": "Elliptical Trainer - Compact",
+        "price": "$399",
+        "rating": "4.7",
+        "totalRating": "189",
+        "category": "Gym Equipment",
+        "description": "Get a full-body cardio workout with the Compact Elliptical Trainer. Space-saving design for effective home fitness.",
+        "reviews": [
+          {
+            "name": "Grace Turner",
+            "comment": "Smooth motion and easy on the joints.",
+            "likes": "29",
+            "dislikes": "0"
+          },
+          {
+            "name": "Chris Johnson",
+            "comment": "Display screen malfunctioned after a month of use.",
+            "likes": "4",
+            "dislikes": "7"
+          }
+        ]
+      },
+      {
+        "image": "https://contents.mediadecathlon.com/p2201854/a8f48801ca4ce6dc42882b2bd8505024/p2201854.jpg?format=auto&quality=70&f=1024x0",
+        "title": "Protein Drinking Bottle - 32oz",
+        "price": "$12",
+        "rating": "4.2",
+        "totalRating": "126",
+        "category": "Gym Equipment",
+        "description": "Stay hydrated and refuel with this 32oz protein drinking bottle. Convenient shaker ball for smooth mixing of protein shakes.",
+        "reviews": [
+          {
+            "name": "Jessica White",
+            "comment": "Leak-proof and easy to clean.",
+            "likes": "16",
+            "dislikes": "0"
+          },
+          {
+            "name": "Andrew Baker",
+            "comment": "Bottle lid cracked after a few drops.",
+            "likes": "2",
+            "dislikes": "6"
+          }
+        ]
+      },
+      {
+        "image": "https://contents.mediadecathlon.com/p1593587/99bea4eee81761e3b99a74540dca5b8a/p1593587.jpg?format=auto&quality=70&f=1024x0",
+        "title": "Creatine Monohydrate Powder",
+        "price": "$18",
+        "rating": "4.9",
+        "totalRating": "234",
+        "category": "Health Supplements",
+        "description": "Enhance your workout performance with Creatine Monohydrate powder. Boost strength, power, and muscle gains.",
+        "reviews": [
+          {
+            "name": "Jacob Smith",
+            "comment": "Effective supplement for increasing strength.",
+            "likes": "42",
+            "dislikes": "1"
+          },
+          {
+            "name": "Emily Davis",
+            "comment": "Experienced bloating and stomach discomfort.",
+            "likes": "3",
+            "dislikes": "8"
+          }
+        ]
+      }
+    ]
+}
   
