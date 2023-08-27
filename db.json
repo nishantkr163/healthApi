@@ -11,7 +11,7 @@
       "dateOfBirth": "2003-05-15",
       "weight": 48,
       "fitnessGoal": ["Muscle gain", "Cardiovascular fitness improvement"],
-      "CoachName" : "Jessica Anderson",
+      "CoachName" : "David Thompson",
       "userData": [
         { "id": 1, "day": 1, "walkedKM": 11, "waterIntake": 7 },
         { "id": 2, "day": 2, "walkedKM": 8, "waterIntake": 5 },
@@ -91,7 +91,7 @@
       "dateOfBirth": "1994-07-18",
       "weight": 75,
       "fitnessGoal": ["Cardiovascular fitness improvement"],
-      "CoachName" : "Jessica Anderson",
+      "CoachName" : "Emily Martinez",
       "userData": [
         { "id": 1, "day": 1, "walkedKM": 8, "waterIntake": 7 },
         { "id": 2, "day": 2, "walkedKM": 10, "waterIntake": 8 },
@@ -211,7 +211,7 @@
       "dateOfBirth": "1999-03-05",
       "weight": 70,
       "fitnessGoal": ["Muscle gain", "Cardiovascular fitness improvement"],
-      "CoachName" : "Jessica Anderson",
+      "CoachName" : "Emily Martinez",
       "userData": [
         { "id": 1, "day": 1, "walkedKM": 9, "waterIntake": 8 },
         { "id": 2, "day": 2, "walkedKM": 10, "waterIntake": 7 },
@@ -231,7 +231,7 @@
       "dateOfBirth": "2000-09-22",
       "weight": 58,
       "fitnessGoal": ["Weight loss", "Strength training"],
-      "CoachName" : "Michael Roberts",
+      "CoachName" : "Alex Williams",
       "userData": [
         { "id": 1, "day": 1, "walkedKM": 5, "waterIntake": 6 },
         { "id": 2, "day": 2, "walkedKM": 6, "waterIntake": 5 },
@@ -764,6 +764,7 @@
         "rating": "4.7",
         "totalRating": "318",
         "category": "Gym Equipment",
+        "description" : "A yoga blocks set includes supportive foam blocks used to deepen stretches, enhance balance, and provide stability during yoga practice.",
         "reviews": [
           {
             "name": "Jennifer Harris",
@@ -787,6 +788,7 @@
         "rating": "4.3",
         "totalRating": "156",
         "category": "Sports Equipment",
+        "description" : "Polarized ski goggles enhance vision by reducing glare from snow and sunlight. They offer clearer, more comfortable sight on slopes.",
         "reviews": [
           {
             "name": "Ethan Johnson",
@@ -810,6 +812,7 @@
         "rating": "4.1",
         "totalRating": "128",
         "category": "Health Supplements",
+        "description" : "One of the primary advantages of plant-based protein powder is that it's suitable for vegans and vegetarians. It doesn't contain any animal-derived ingredients like whey or casein",
         "reviews": [
           {
             "name": "Daniel Johnson",
@@ -833,6 +836,7 @@
         "rating": "4.6",
         "totalRating": "276",
         "category": "Gym Equipment",
+        "description" : "The Reformer consists of a sturdy frame with a sliding carriage on tracks. The carriage is attached to springs of varying resistance, allowing users to adjust the intensity of their workouts.",
         "reviews": [
           {
             "name": "Nathan Harris",
